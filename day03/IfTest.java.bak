@@ -1,0 +1,22 @@
+/*
+分支结构中的if-else（条件结构判断）
+if(条件表达式){
+
+}else if(){
+
+
+}else if(){
+
+
+}
+...
+else{
+
+}
+*/
+class IfTest{ 
+	public static void main(String[] args) {
+
+		System.out.println("Hello World!");
+	}
+}
